@@ -8,7 +8,7 @@ If this database is used in your publication. Please Cite the following paper-
 
 ## Repository Structure
 
-The main branch contains the most recent data and files of NEIVA. There are four folders – Data, Source code, Tools and User Guide. The User Guide/NEIVA_DataDictionary.pdf has documented description and functions of all folders and files. 
+The main branch contains the most recent data and files of NEIVA. There are four major folders – Data, Source code, Tools and User Guide. The User Guide/NEIVA_DataDictionary.pdf has documented description and functions of all folders and files. 
 
 ## Getting started
 
