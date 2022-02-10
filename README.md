@@ -2,9 +2,28 @@ Next Gen Emissions Inventory expansion of Akagi (NEIVA) version 1.1
 
 Welcome to NEIVA inventory!
 
-NEIVA is a python package of biomass burning emissions data. This package has data files, database design codes and tools for users. We have provided tools for setting up, troubleshooting, and verifying data. The data files are in csv and compatible in other formats such as- Python, MySQL. 
+This is a python package of biomass burning emissions data. This package has data, database design codes and tools for users. We have provided tools for setting up, troubleshooting, and verifying data, so that it is easy for users to setup. The data files are in csv and compatible in other formats such as- Python, MySQL. 
 
- If this database is used in your publication. Please Cite the following paper-
+If this database is used in your publication. Please Cite the following paper-
+
+Repository Structure
+
+The main branch contains the most recent data and files of NEIVA. There are four folders – Data, Source code, Tools and User Guide. The User Guide/NEIVA_DataDictionary.pdf has documented description and functions of all folders and files. 
+
+Getting started
+
+We have provided a step-by-step guide for the users on setting up this database. Please find it in User Guide/NEIVA_QuickStart.pdf. 
+
+Contact
+
+If you have any question/suggestions/comments, please contact-
+
+Kelley Barsanti – kbarsanti@engr.ucr.edu
+
+Samiha Binte Shahid – sbint003@ucr.edu
+
+
+Thank you for using NEIVA!
 
 
 
