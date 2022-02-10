@@ -24,7 +24,7 @@ Kelley Barsanti – kbarsanti@engr.ucr.edu
 Samiha Binte Shahid – sbint003@ucr.edu
 
 
-#### Thank you for using NEIVA!
+### Thank you for using NEIVA!
 
 
 
