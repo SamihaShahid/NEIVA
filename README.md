@@ -18,11 +18,8 @@ We have provided a step-by-step guide for the users on setting up this database.
 ## Contact
 
 If you have any question/suggestions/comments, please contact-
-
 Kelley Barsanti – kbarsanti@engr.ucr.edu
-
 Samiha Binte Shahid – sbint003@ucr.edu
-
 
 ### Thank you for using NEIVA!
 
