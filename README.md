@@ -1,4 +1,4 @@
-![NEIVA logo 4](https://user-images.githubusercontent.com/99386739/153528810-56befcc6-b49a-4b6c-87eb-15ef4402b70e.png)
+![NEIVA logo 4](https://user-images.githubusercontent.com/99386739/153528989-69d2197d-ac14-4b1a-8cb5-e6885926def3.png)
 ## Next Gen Emissions Inventory expansion of Akagi (NEIVA) version 1.1
 
 ### Welcome to NEIVA inventory!
