@@ -19,7 +19,7 @@ We provide a comprehensive collection of biomass burning emissions papers. We re
 
 If NEIVA is used to support your publication. Please cite the following the paper-
 
-In addition, we request you to send the paper to us, so that we can we can add it to our [NEIVA papers list](https://docs.google.com/spreadsheets/d/1uXLA59hYS1TJNgUj3USroiDX7IaCfrBNx_SZjSJkd6Q/edit#gid=0)
+In addition, we request you to send the paper to us, so that we can we can add it in our [NEIVA papers list](https://docs.google.com/spreadsheets/d/1uXLA59hYS1TJNgUj3USroiDX7IaCfrBNx_SZjSJkd6Q/edit#gid=0)
 
 ## Contact
 
