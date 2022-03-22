@@ -11,7 +11,7 @@ The main branch contains the most recent files. The NEIVA_UserGuide (located in-
 
 ## Biomass burning emissions papers
 
-We provide a comprehensive collection of biomass burning emissions papers. We request you to share your paper with so that we can add it in our [BB emissions paper list](https://docs.google.com/spreadsheets/d/1fOjR0u-PTw9Zq8OsoOfMqCC6bINKlpRvfvY_2e1R25o/edit#gid=0)
+We provide a comprehensive collection of biomass burning emissions papers. We request you to share your paper with us so that we can add it in our [BB emissions paper list](https://docs.google.com/spreadsheets/d/1fOjR0u-PTw9Zq8OsoOfMqCC6bINKlpRvfvY_2e1R25o/edit#gid=0)
 
 If NEIVA is used to support to your publication. Please cite the following the paper-
 
