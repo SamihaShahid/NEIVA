@@ -3,7 +3,7 @@
 
 ### Welcome to NEIVA inventory!
 
-NEIVA is a biomass burning emissions inventory. It consists of data files, database design codes and tools. We recommend emission factor (EF) along with relevant property data for atmospheric modeling. Moreover, the chemical compounds are mapped to model surrogates to facilitate model application. We also provide a program to incorporate new data in future. The program is compatible to incorporate new data and it requires minimum modification from a user.
+NEIVA is a biomass burning emissions inventory. It consists of data files, database design codes and tools. We recommend emission factor (EF) and provide relevant property data for atmospheric modeling. Moreover, the chemical compounds are mapped to model surrogates to facilitate model application. We have also provided programs for automated data scans, data integration and calculation. These programs can incorporate new data. Minimum human review is required in this process. 
 
 ## Downloading NEIVA
 
@@ -31,9 +31,3 @@ Kelley Barsanti – kbarsanti@engr.ucr.edu
 Samiha Binte Shahid – sbint003@ucr.edu
 
 ### Thank you for using NEIVA!
-
-
-
-
-
-
