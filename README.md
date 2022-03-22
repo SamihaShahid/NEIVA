@@ -7,8 +7,8 @@ NEIVA is a biomass burning emissions inventory. It consists of data files, desig
 
 ## Downloading NEIVA
 
-1) Download the zip file. Unzip the file and put it where you want. No additional setting up is required. 
-2) To use the codes and tools Python is required in the computer.
+1) Download the zip file. Unzip the file and put it where you want. No additional set up is required. 
+2) To use the codes and tools Python is required.
 
 ## Getting Started
 
