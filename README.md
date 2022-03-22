@@ -11,7 +11,7 @@ The main branch contains the most recent files. The NEIVA_UserGuide (located in-
 
 ## Downloading NEIVA
 
-Download the zip file. Unzip the file and put it where you want. No additional setting up is required. Although to use the codes and tools a user will need to download python in the computer if it hasn't been done yet. 
+Download the zip file. Unzip the file and put it where you want. No additional setting up is required. Although to use the codes and tools a user will need to download python in the computer. 
 
 
 ## Biomass burning emissions papers
