@@ -3,17 +3,21 @@
 
 ### Welcome to NEIVA inventory!
 
-This is a python package of biomass burning emissions data. This package has emission factor data, database design codes and tools for users. We have provided tools for setting up, troubleshooting, and verifying data, so that the users can quikly setup this database with a little experience in python. The data files are in csv and compatible in other formats such as- Python, MySQL. 
-
-If this database is used in your publication. Please Cite the following paper-
-
-## Repository Structure
-
-The main branch contains the most recent data and files of NEIVA. There are four major folders – Data, Source code, Tools and User Guide. The User Guide/NEIVA_DataDictionary.pdf has documented description and functions of all folders and files. 
+NEIVA is a biomass burning emissions inventory. It consists of data files, design codes and tools. We provide a recommended emission factor dataset. The chemical compounds are mapped to model surrogates to faciliate model application. We also provide a platform to incorporate new data in future. The codes are compatible to incorporate new data. This requires minimum modification from a user.
 
 ## Getting Started
 
-We have provided a step-by-step guide for the users on setting up this database. Please find it in User Guide/NEIVA_QuickStart.pdf. 
+The main branch contains the most recent files. The NEIVA_UserGuide (located in- NEIVA_v_1.1/Docs/) has the overall database structure, codes and tools. The users are recommended to visit this document. A user will need some familiarity with python to use the codes and tools. At minimum, users are encouraged to be familair with Pandas, NumPy libraries, the bsic syntax of a function, loop and different variable classes such as lists, strings.
+
+## Biomass burning emissions papers
+
+We provide a comprehensive collection of biomass burning emissions papers. We request you to share your paper with so that we can add it in out [BB emissions list].
+(https://docs.google.com/spreadsheets/d/1fOjR0u-PTw9Zq8OsoOfMqCC6bINKlpRvfvY_2e1R25o/edit?usp=sharing)
+
+If NEIVA is used to support to your publication. Please cite the following the paper-
+
+In addition, we request you to send the paper to us, so that we can we can add it to our [NEIVA papers list].
+(https://docs.google.com/spreadsheets/d/1uXLA59hYS1TJNgUj3USroiDX7IaCfrBNx_SZjSJkd6Q/edit?usp=sharing)
 
 ## Contact
 
