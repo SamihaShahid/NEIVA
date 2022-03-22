@@ -23,7 +23,7 @@ In addition, we request you to send the paper to us, so that we can we can add i
 
 ## Contact
 
-If you have any question/suggestions/comments, please contact-
+If you have any questions/suggestions/comments, please contact-
 
 Kelley Barsanti – kbarsanti@engr.ucr.edu
 
