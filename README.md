@@ -18,7 +18,7 @@ Download the zip file. Unzip the file and put it where you want. No additional s
 
 We provide a comprehensive collection of biomass burning emissions papers. We request you to share your paper with us so that we can add it in our [BB emissions paper list](https://docs.google.com/spreadsheets/d/1fOjR0u-PTw9Zq8OsoOfMqCC6bINKlpRvfvY_2e1R25o/edit#gid=0)
 
-If NEIVA is used to support to your publication. Please cite the following the paper-
+If NEIVA is used to support your publication. Please cite the following the paper-
 
 In addition, we request you to send the paper to us, so that we can we can add it to our [NEIVA papers list](https://docs.google.com/spreadsheets/d/1uXLA59hYS1TJNgUj3USroiDX7IaCfrBNx_SZjSJkd6Q/edit#gid=0)
 
