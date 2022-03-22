@@ -3,11 +3,12 @@
 
 ### Welcome to NEIVA inventory!
 
-NEIVA is a biomass burning emissions inventory. It consists of data files, design codes and tools. We provide a recommended emission factor dataset. The chemical compounds are mapped to model surrogates to faciliate model application. We also provide a platform to incorporate new data in future. The codes are compatible to incorporate new data and it requires minimum modification from a user.
+NEIVA is a biomass burning emissions inventory. It consists of data files, design codes and tools. We recommend emission factor (EF) along with relevant property data for atmospheric modeling. Moreover, the chemical compounds are mapped to model surrogates to facilitate model application. We also provide a platform to incorporate new data in future. The codes are compatible to incorporate new data and it requires minimum modification from a user.
 
 ## Downloading NEIVA
 
-Download the zip file. Unzip the file and put it where you want. No additional setting up is required. Although to use the codes and tools a user will need to download python in the computer.
+1) Download the zip file. Unzip the file and put it where you want. No additional setting up is required. 
+2) To use the codes and tools Python is required in the computer.
 
 ## Getting Started
 
@@ -17,7 +18,7 @@ The main branch contains the most recent files. The NEIVA_UserGuide (located in-
 
 We provide a comprehensive collection of biomass burning emissions papers. We request you to share your paper with us so that we can add it in our [BB emissions paper list](https://docs.google.com/spreadsheets/d/1fOjR0u-PTw9Zq8OsoOfMqCC6bINKlpRvfvY_2e1R25o/edit#gid=0)
 
-If NEIVA is used to support your publication. Please cite the following the paper-
+If NEIVA is used to support your publication. Please cite the following paper-
 
 In addition, we request you to send the paper to us, so that we can we can add it in our [NEIVA papers list](https://docs.google.com/spreadsheets/d/1uXLA59hYS1TJNgUj3USroiDX7IaCfrBNx_SZjSJkd6Q/edit#gid=0)
 
