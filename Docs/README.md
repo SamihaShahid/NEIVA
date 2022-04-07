@@ -3,7 +3,7 @@
 
 ### Welcome to NEIVA inventory!
 
-NEIVA is a biomass burning emissions inventory. It consists of data files, database design codes and tools. We recommend emission factor (EF) and provide relevant property data for atmospheric modeling. Moreover, the chemical compounds are mapped to model surrogates to facilitate model application. This database is reproducible. There are  programs for data integration and calculation. These programs can incorporate new data. Minimum human review is required in this process. 
+NEIVA is a biomass burning emissions inventory. It consists of data files, database design codes and tools. We recommend emission factor (EF) and provide relevant property data for atmospheric modeling. Moreover, the chemical compounds are mapped to model surrogates to facilitate model application. This database is reproducible. There are programs for data integration and calculation. These programs can incorporate new data. Minimum human review is required in this process. 
 
 ## Downloading NEIVA
 
@@ -12,7 +12,7 @@ NEIVA is a biomass burning emissions inventory. It consists of data files, datab
 
 ## Getting Started
 
-The main branch contains the most recent files. The NEIVA_UserGuide has documented the overall database structure, codes and tools. The users are recommended to visit this document. A user will need some familiarity with python to use the codes and tools. At minimum, users are encouraged to be familair with Pandas, NumPy libraries, the bsic syntax of a function, loop and different variable classes such as lists, strings.
+The main branch contains the most recent files. The NEIVA_UserGuide has documented the overall database structure, codes, and tools. The users are recommended to visit this document. A user will need some familiarity with python to use the codes and tools. At minimum, users are encouraged to be familiar with Pandas, NumPy libraries, the basic syntax of a function, loop and different variable classes such as lists, strings.
 
 ## Biomass burning emissions papers
 
